@@ -30,11 +30,11 @@ A SwiftUI posts app that loads posts from JSONPlaceholder using a layered archit
 
 ## Screenshots
 
-### Post detail screen
+### Posts screen
 
 ![Post detail screen](Documentation/Screenshots/post-detail-1.png)
 
-### Another post detail screen
+### Post details screen
 
 ![Another post detail screen](Documentation/Screenshots/post-detail-2.png)
 
@@ -49,4 +49,3 @@ PostScreen
                     -> PostRemoteDataSource
                         -> APIClient
 ```
-
