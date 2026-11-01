@@ -32,7 +32,7 @@ A SwiftUI posts app that loads posts from JSONPlaceholder using a layered archit
 
 ### Posts screen
 
-![Post detail screen](Documentation/Screenshots/post-detail-1.png)
+![Posts home screen](Documentation/Screenshots/post-home.png)
 
 ### Post details screen
 
